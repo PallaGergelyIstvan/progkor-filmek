@@ -3,4 +3,4 @@
 
 * nye progkor filmek
 
-	* film katalógus
+	* film katalógus application
