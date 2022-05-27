@@ -87,6 +87,9 @@
 				<configuration>
 					<excludes>
 						<exclude>hu\nye\progkorfilmek\ProgkorFilmekApplication.class</exclude>
+						<exclude>hu\nye\progkorfilmek\configuration\**</exclude>
+						<exclude>hu\nye\progkorfilmek\controller\**</exclude>
+						<exclude>hu\nye\progkorfilmek\model\**</exclude>
 						<exclude>*Test</exclude>
 					</excludes>
 					<rules>

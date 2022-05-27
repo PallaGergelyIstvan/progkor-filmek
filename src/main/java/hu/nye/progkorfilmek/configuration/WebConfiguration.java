@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * Spring Java configuration class for generic application.
+ * Spring Java configuration class for web application.
  */
 @Configuration
 @EnableWebMvc
